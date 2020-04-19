@@ -1,3 +1,7 @@
+# Version de repositorio
+
+version actual v.1.2.2
+
 # CABECERAS
 # Cabercera H1
 ## Cabercera H2
@@ -66,12 +70,10 @@ fin de citas.
 guiones 
 
 ---
-
 asteriscos
 
 ***
-
 guiones bajos
-
 ___
+fin de lineas.
 
